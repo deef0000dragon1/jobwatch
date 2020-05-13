@@ -1,0 +1,1 @@
+The positions I wanted to apply for at twitch got removed from the board while I was cleaning up my resume. I decided to write a quick script that I can run to automatically look for new postings to see if anything else catches my eye. 
